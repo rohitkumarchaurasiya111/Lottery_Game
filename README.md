@@ -20,10 +20,9 @@ The Lottery Game generates random numbers, and based on a predefined winning con
 4. The logic is modular, allowing you to update the number of digits or change the winning condition easily.
 
 ### Screenshot
-Below is a screenshot of the game displaying a winning condition:
+Below is a screenshot of the game displaying a winning situation:
+![image](https://github.com/user-attachments/assets/ae04dce1-ce4f-42fa-9046-d7067ceb8560)
 
-![Winning Screenshot](![image](https://github.com/user-attachments/assets/9a8b0eba-dba2-4dda-a124-48dbc9ec9413)
-)
 
 ## Learning Objectives
 This project was built with the following objectives:
@@ -63,8 +62,7 @@ This project was built with the following objectives:
 The project is divided into multiple React components, each responsible for a specific part of the application. The "Lifting State Up" pattern has been used to ensure seamless communication between components and efficient state management.
 
 ## Contribution
-**If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-**---
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
 Enjoy the game! Feel free to share your feedback or suggestions for improvement.
 
